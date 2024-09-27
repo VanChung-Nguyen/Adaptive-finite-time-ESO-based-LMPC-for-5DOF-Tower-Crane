@@ -1,2 +1,4 @@
 # Adaptive finite-time extended state observer-based model predictive control with flatness-motivated motion planning for tower cranes
-This is the simulation for a novel methodology for controlling 5DOF Tower Crane in Matlab/Simulink. Several comparision method including PID-AFT-ESO, LQR-AFT-ESO and SO-SMC-AFT-ESO are also attached.
+This simulation demonstrates a novel methodology for controlling a 5DOF Tower Crane in Matlab/Simulink. Several comparison methods, including PID-AFT-ESO, LQR-AFT-ESO, and SO-SMC-AFT-ESO, are also included. 
+The Simscape model of the 5DOF Tower Crane is proposed as follows:
+![dynamic](https://github.com/user-attachments/assets/d207fdd5-c870-43a8-8a6a-80247ecf338e)
