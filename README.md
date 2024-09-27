@@ -65,3 +65,7 @@ Run the data.m file
 Open the smceso_simscape.slx and run.
 
 ```
+
+## Contact
+- [Van Chung Nguyen](mailto:vanchungn@unr.edu)
+- [Tung Lam Nguyen](mailto:lam.nguyentung@hust.edu.vn)
